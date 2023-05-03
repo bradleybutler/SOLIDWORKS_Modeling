@@ -1,4 +1,6 @@
 # SOLIDWORKS_Modeling
+# My computer with my past SOLIDWORKS work was corrupted, and thus those files were lost. This portfolio is incomplete for now but I am in the progress of restoring these files
+
 Design work done with the SOLIDWORKS modeling software. I believe I am a solid modeler, but as is evident in this file my surface modeling is a weak point I am working toward fixing.
 
 MECH_201 Will include work done for my MECH_201 design course at CSU. It will also include my SOLIDWORKS CWSA certificate
